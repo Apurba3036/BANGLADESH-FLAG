@@ -1,0 +1,33 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+.green{
+
+    background-color: rgb(12, 167, 12);
+    height: 300px;
+    width: 500px;
+    position: relative;
+    margin: auto;
+    top: 100px;
+
+}
+
+p{
+    
+    text-align: center;
+}
+
+.red{
+    background-color: rgb(255, 19, 19);
+      height: 170px;
+      width: 170px;
+      position: absolute;
+      left: 170px;
+      top: 75px;
+      border-radius: 50%;
+      border: 1px solid black;
+
+      }
+
